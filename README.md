@@ -18,7 +18,7 @@ How to Run It
 You don't need any frameworks or tools. Just:
 
 1. Clone or download the repo
-2. Open `index.html` in your browser
+2. Open "index.html" in your browser
 3. Start the quizz.
 
 
